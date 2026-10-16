@@ -1,4 +1,4 @@
-# Claude Code Plugins Directory
+Qeveo# Claude Code Plugins Directory
 
 A curated directory of high-quality plugins for Claude Code.
 
